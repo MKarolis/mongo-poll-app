@@ -12,6 +12,7 @@ The application uses `MongoDB` and `Spring Data` for storage management.
 
 JDK version 11 is required to build and run the project
 <h2>Setup</h2>
+
 - Pull git repo
 - Open with IDE of your choice
 - Set the following environment variables:
